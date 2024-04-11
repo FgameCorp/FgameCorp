@@ -5,9 +5,8 @@
 - 👔 Linkedin: [fernandobpereira](https://www.linkedin.com/in/fernandobpereira/)
 
   <div>
-  
-  <img height=200  align="side" src="https://github-readme-stats.vercel.app/api?username=FgameCorp&show_icons=true&theme=transparent&include_all_commits-false&count_private-true" />
   <a href="https://github.com/FgameCorp">
+  <img height=200  align="side" src="https://github-readme-stats.vercel.app/api?username=FgameCorp&show_icons=true&theme=transparent&include_all_commits-false&count_private-true" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=FgameCorp&theme=transparent&langs_count=16&theme-transparent" />
 </div>
 
