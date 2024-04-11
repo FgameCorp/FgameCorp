@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Fernando😁
 
-- 🔭 Hoje trabalho com front-end.
-- 🌱 Cursando Sistemas de Telecomunicações - UTFPR / Análise e Desenvolvimento de Sistemas - SENAI
+- 🔭 Cursando Sistemas de Telecomunicações - UTFPR / Análise e Desenvolvimento de Sistemas - SENAI
 - 📫 Contate-me no Email: fernandobrcpr@gmail.com
-- 👔 Linkedin: linkedin.com/fernandobpereira
+- 👔 Linkedin: [fernandobpereira](https://www.linkedin.com/in/fernandobpereira/)
 
   <div>
   <a href="https://beacons/FgameCorp">
